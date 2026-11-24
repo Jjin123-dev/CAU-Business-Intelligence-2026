@@ -20,7 +20,7 @@ Planned implementation structure:
 Setup and execution instructions will be added once the implementation is ready.
 ## Deliverables
 
-- [ ] Project proposal
+- [x] Project proposal
 - [ ] Source code
 - [ ] Presentation
 - [ ] Demo video
